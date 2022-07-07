@@ -1547,7 +1547,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "img+http://inews.gtimg.com/newsapp_ls/0/14961437231/0"
+  "spider": "https://xinzhao2.github.io/fg/doraAmen.jar"
 }
 
 
